@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charliedchen
 - 👀 I’m interested in ... neuroimaging
 - 🌱 I’m currently learning ... git
-- 💞️ I’m looking to collaborate on ... ways to evaluate image quality
+- 💞️ I’m looking to collaborate on ... image statistics
 - 📫 How to reach me ... charliedchen.github.io
 
 <!---
