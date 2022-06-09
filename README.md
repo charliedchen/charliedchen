@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @charliedchen
-- 👀 I’m currently interested in ... automating the visual interpretation of images
-- 🌱 I’m currently learning about ... Alzheimer disease
-- 💞️ I’m looking to collaborate on ... neuroimaging and neuropathology projects
-- 📫 How to reach me ... charliedchen.github.io
+Hi, I'm Charlie
+
+I'm a PhD candidate in Imaging Science at Washington University in St. Louis. You can read more about my work at charliedchen.github.io. I'm also pretty interested in stuff outside of imaging. I'll add those to the website someday.
 
 <!---
 charliedchen/charliedchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
